@@ -10,13 +10,13 @@ for simplicity use:
  - Address name to use : TNS
   Address name will be used for all options from viewing,insertions,modifications and deletion, however can be used for testing all options
  - email addresses can be selected from : 
-    **Omari Kabwila isp@gmail.com 001
-    **Sophia Pembe  sp@gmail.com 002
-    Shalaima Hussen sh@gmail.com 003
-    Rehema Kiboshor rk@gmail.com 004
-    Shashuamsa Abubakary sa@gmail.com 005
+* Omari Kabwila isp@gmail.com 001
+* Sophia Pembe  sp@gmail.com 002
+* Shalaima Hussen sh@gmail.com 003
+* Rehema Kiboshor rk@gmail.com 004
+* Shashuamsa Abubakary sa@gmail.com 005
 
-   All emails in here can be used for delection , modifications and insertions, however can be used to test all options.
+All emails in here can be used for delection , modifications and insertions, however can be used to test all options.
 
 
 # Pseudocode and steps i undertake to accomplish the task.
